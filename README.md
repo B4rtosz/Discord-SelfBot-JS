@@ -23,6 +23,14 @@ $ npm install discord.js
 # Version:
 0.1
 
+# Comming Features:
+- Self panel
+- Events (WSEventType)
+- Message logging in cmd
+- RichEmbed messages
+- Ban/Kick system
+- Block system
+
 # Update:
 
 
