@@ -6,6 +6,7 @@ const config = require ('./config.json');
 bot.on("ready", () => {
   var Data = new Date();
   bot.user.setStatus('Idle');
+	console.clear()
 	console.log('___________________________________________________________________');
 	console.log('Prefix: ' + config.prefix);
 	console.log('___________________________________________________________________');
